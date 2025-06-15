@@ -85,7 +85,7 @@ I am pursuing full-time opportunities to contribute my expertise to roles focuse
 - Security Groups: Set up firewall rules to control inbound and outbound traffic.
 - NAT and Internet Gateways: For internet access and control of traffic to and from the network
 
-https://github.com/emekakingsley7/cloudinfra/blob/main/README.md
+[Link to detailed implementation in my GitHub repository](https://github.com/emekakingsley7/cloudinfra/blob/main/README.md)
 
 
 
