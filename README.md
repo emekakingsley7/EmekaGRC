@@ -10,7 +10,7 @@ Hello, I'm Emeka Okonkwo, a Governance, Risk, and Compliance (GRC) professional 
 - **Email**: emekakingsley7@gmail.com
 - **LinkedIn**: [linkedin.com/in/emekakonkwo](https://linkedin.com/in/emekaokonkwo)
 - **GitHub**: [github.com/emekakingsley7](https://github.com/emekakingsley7)
-- **Location**: [United States]
+- **Location**: United States
 
 ## Professional Summary
 
