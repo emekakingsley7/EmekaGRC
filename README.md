@@ -35,7 +35,7 @@ I am pursuing full-time opportunities to contribute my expertise to roles focuse
 - Security Control Implementation
 
 ### Tools & Technologies
-- Infrastructure as Code (CloudFormation, AWS CDK, Terraform)
+- Infrastructure as Code (CloudFormation, Terraform)
 - CI/CD Security Integration
 - Scripting and Automation (Python, Bash)
 - Monitoring and Alerting
