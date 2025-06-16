@@ -68,6 +68,25 @@ I am pursuing full-time opportunities to contribute my expertise to roles focuse
 **Results**:
 - Created baseline metrics for ongoing security improvements
 
+### AWS Security Baseline Implementation
+
+**Description**: Implementation of a **security baseline** for a **development AWS account** following the **AWS Well-Architected Framework Security Pillar** and aligning with **CIS AWS Foundations Benchmark**
+
+**Skills Demonstrated**:
+- AWS IAM set up  
+- AWS CloudTrail  
+- AWS Config  
+- AWS Security Hub
+
+**Implementation Details**:
+- IAM Security hardening: Enforced strong IAM password policy (min 14 characters, complexity rules) and prevented password reuse and expired passwords every 90 days
+- Cloudtrail Logging: Created multi-region CloudTrail, enabled log file validation integrity assurance, and securely stored it in an S3 bucket
+- AWS Config Monitoring: Enabled config to record all supported resources across regions, attached rules related to password policy compliance, MFA, and delivered the configuration log to S3 
+- Enabled Security Hub: Enabled CIS AWS benchmark and AWS foundational security best practices, and reviewed findings while tracking compliance improvements
+
+
+**Results**:
+- Strengthened security of resources with a baseline in place
 
 ### Basic Infrastructure Deployment on AWS using Terraform
 
