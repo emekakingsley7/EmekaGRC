@@ -87,6 +87,7 @@ I am pursuing full-time opportunities to contribute my expertise to roles focuse
 
 **Results**:
 - Strengthened security of resources with a baseline in place
+- 15+ Issues were identified and a follow-up remediation plan was followed
 
 ### Basic Infrastructure Deployment on AWS using Terraform
 
